@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">iot</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="broker">broker ip</string>
+    <string name="port">port</string>
+    <string name="connect">connect</string>
+    <string name="bannertext">banner</string>
+    <string name="control_your_appliances">Control Your Appliances</string>
+    <string name="fan">Light</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="status">Status</string>
+    <string name="Status"></string>
+    <string name="iot">Smart Control</string>
+    <string name="lab1">Connected to</string>
+    <string name="ip">ip</string>
+    <string name="Device">Device</string>
+    <string name="statusval">statusval</string>
+    <string name="offline">offline</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_in_title1">About</string>
+    <string name="menu_in_title2">Disconnect</string>
+    <string name="menu_in_title3">Add Device</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>

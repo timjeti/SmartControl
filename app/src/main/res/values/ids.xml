@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_inid3" type="id">menu_in3</item>
+    <item name="menu_in_id3" type="id">menu_in3</item>
+    <item name="menu_in_id2" type="id">menu_in2</item>
+    <item name="menu_in_id1" type="id">menu_in1</item>
+</resources>
